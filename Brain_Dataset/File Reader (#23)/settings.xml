@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="DataURL" type="xstring" value="file:/C:/Users/leonk/Documents/BA/Semester_5/Angewandte_WI/Seminar/Daten_Sem/Brain_Dataset/yes/Y1.CSV"/>
+<entry key="DataURL" type="xstring" value="file:/C:/Users/leonk/Documents/BA/Semester_5/Angewandte_WI/Seminar/Daten_Sem/Brain_Dataset/no/1%20no.CSV"/>
 <config key="Delimiters">
 <config key="Delim0">
 <entry key="pattern" type="xstring" value="%%00010"/>
